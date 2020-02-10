@@ -1,0 +1,3 @@
+{
+studento info = "studento info"
+}
