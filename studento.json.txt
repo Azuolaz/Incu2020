@@ -1,3 +1,0 @@
-{
-studento info = "studento info"
-}
